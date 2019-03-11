@@ -1,0 +1,15 @@
+{
+  "name": "mrcrawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thai.oliva",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.13.0",
+    "puppeteer-core": "^1.13.0"
+  }
+}
